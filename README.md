@@ -1,5 +1,17 @@
+<h3 align="center">A passionate frontend developer from India</h3>
+
+
 # 💫 About Me:
-I’m currently learning Back-End Development<br><br>All of my projects are available at available-soon<br><br>Ask me about Front-End<br><br>How to reach me dev78ashish@gmail.com<br><br>Fun fact I love video-editing more than coding
+
+- 🌱 I’m currently learning **Back-End Development**
+
+- 👨‍💻 All of my projects are available at [available-soon](available-soon)
+
+- 💬 Ask me about **Front-End**
+
+- 📫 How to reach me **dev78ashish@gmail.com**
+
+- ⚡ Fun fact **I love video-editing more than coding**
 
 
 ## 🌐 Socials:
