@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Devashish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/></h1>
+<h3 align="center">I'm Devashish, A passionate frontend developer from India</h3>
 
 # 💫 About Me:
 
