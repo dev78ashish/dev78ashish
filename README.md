@@ -4,15 +4,19 @@
 # 💫 About Me:
 
 <div style="display: flex; justify-content: space-between;">
-  <div>
-    <ul>
-      <li>🌱 I’m currently learning <strong>Back-End Development</strong></li>
-      <li>💬 Ask me about <strong>Front-End</strong></li>
-      <li>📫 How to reach me <strong>dev78ashish@gmail.com</strong></li>
-      <li>⚡ Fun fact <strong>I love video-editing more than coding</strong></li>
-    </ul>
+  <div style="width: 50%;">
+   
+- 🌱 I’m currently learning **Back-End Development**
+
+- 👨‍💻 All of my projects are available at [available-soon](available-soon)
+
+- 💬 Ask me about **Front-End**
+
+- 📫 How to reach me **dev78ashish@gmail.com**
+
+- ⚡ Fun fact **I love video-editing more than coding**
   </div>
-  <div>
+  <div style="width: 50%;">
     <img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="Profile Image" width="200" height="150" style="margin:0 auto;">
   </div>
 </div>
