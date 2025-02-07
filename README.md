@@ -20,7 +20,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/dev78ashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev78ashish" height="30" width="40" /></a>
-<a href="https://instagram.com/justlike.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justlike.dev" height="30" width="40" /></a>
+<a href="https://instagram.com/devsthh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justlike.dev" height="30" width="40" /></a>
 </p>
 
 ---
