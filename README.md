@@ -2,7 +2,7 @@
 <h3 align="center">I'm Devashish, A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-<img src="https://avatars.githubusercontent.com/u/128733105?v=4" alt="Profile Image" width="30%" height="30%" align="right">
+<img src="https://avatars.githubusercontent.com/u/128733105?v=4" alt="Profile Image" width="20%" height="20%" align="right">
 
 - 🌱 I’m currently learning **Back-End Development**
 
