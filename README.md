@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I love video-editing more than coding**
 
-    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev78ashish&label=Profile%20views&color=0e75b6&style=flat" alt="dev78ashish" /> </p>    
 
 
 ## 🌐 Socials:
