@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Back-End Development**
 
-- 👨‍💻 All of my projects are available at https://devashishportfolioo.netlify.app/
+- 👨‍💻 All of my projects are available at https://devashish.live/
 
 - 💬 Ask me about **Front-End**
 
