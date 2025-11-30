@@ -24,7 +24,62 @@
 ---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="35" alt="android logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="35" alt="apachemaven logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="35" alt="c logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="35" alt="css logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="35" alt="tomcat logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/xcode/147EFB" height="35" alt="xcode logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="35" alt="redux logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/hibernate/59666C" height="35" alt="hibernate logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="35" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" alt="postman logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="postgresql logo"  />
+</div>
 
 ---
 
