@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on: **Java Backend Development & React Projects**
 
-- 👨‍💻 All of my projects are available at https://devashish.live/
+- 👨‍💻 All of my projects are available at https://devashishprasad.in/
 
 - 💬 Ask me about: Java, React, APIs, and Problem Solving
 
